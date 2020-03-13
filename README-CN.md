@@ -39,7 +39,7 @@
 
 ## 依赖?
 
-CacheFunctionUtil 只有一个 class. 直接 CTRL+A, CTRL+C to 吧.
+CacheFunctionUtil 只有一个 class. 直接复制粘贴吧.
 
 ## How it works?
 
